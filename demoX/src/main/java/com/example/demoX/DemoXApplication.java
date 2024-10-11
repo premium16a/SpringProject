@@ -9,6 +9,7 @@ package com.example.demoX;
 
 //the above imports are replaced by below for @RequestParam
 //This is the new comment from the GitHub repository....
+//This is a 2nd comment from IntelliJ to Github repository
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
